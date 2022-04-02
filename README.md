@@ -1,3 +1,8 @@
+## This fork is just a backup of https://github.com/Ortega-Dan/xmacroIncludingDelayCapturing
+I did it because sarine.nl is not hosting xmacro anymore
+there is not relevant in this fork, and  you're better following https://github.com/Ortega-Dan/xmacroIncludingDelayCapturing
+
+
 This is an improved version wich also records input delays.\
 (The version provided by Debian based distributions doesn't record delays\
 That version information is in:\
